@@ -1,2 +1,2 @@
 # lab2AS
-laboratorio arquitectura de software udea
+laboratorio 2 arquitectura de software udea
